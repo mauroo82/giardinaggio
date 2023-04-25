@@ -1,5 +1,3 @@
-#DIPLADENIA
-##TERRA
-Substrato   Normale, ricco e ben drenato
-##Esposizione
-Luminosa, no luce diretta
+#Dipladenia	
+##Terra:	
+Substrato Normale, ricco e ben drenato
